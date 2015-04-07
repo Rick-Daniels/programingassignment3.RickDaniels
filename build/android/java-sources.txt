@@ -1,0 +1,7 @@
+"C:/Users/Rick/Documents/Titanium_Studio_Workspace/programingassignment3.RickDaniels/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Rick/Documents/Titanium_Studio_Workspace/programingassignment3.RickDaniels/build/android/gen/com/RickDaniels/Assignment3/ApplicationStylesheet.java"
+"C:/Users/Rick/Documents/Titanium_Studio_Workspace/programingassignment3.RickDaniels/build/android/gen/com/RickDaniels/Assignment3/Programingassignment3RickdanielsActivity.java"
+"C:/Users/Rick/Documents/Titanium_Studio_Workspace/programingassignment3.RickDaniels/build/android/gen/com/RickDaniels/Assignment3/Programingassignment3RickdanielsAppInfo.java"
+"C:/Users/Rick/Documents/Titanium_Studio_Workspace/programingassignment3.RickDaniels/build/android/gen/com/RickDaniels/Assignment3/Programingassignment3RickdanielsApplication.java"
+"C:/Users/Rick/Documents/Titanium_Studio_Workspace/programingassignment3.RickDaniels/build/android/gen/com/RickDaniels/Assignment3/R.java"
+"C:/Users/Rick/Documents/Titanium_Studio_Workspace/programingassignment3.RickDaniels/build/android/gen/ti/modules/titanium/ui/R.java"
